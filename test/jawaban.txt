@@ -1,0 +1,9 @@
+  NO       87    
+ GUN      908    
+  NO       87    
+----     ----    
+HUNT     1082    
+
+Waktu: 0 jam, 0 menit, 7.7569 detik.
+
+Jumlah Percobaan : 167979
