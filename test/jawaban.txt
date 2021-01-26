@@ -1,9 +1,8 @@
-  NO       87    
- GUN      908    
-  NO       87    
+THIS     8965    
+  IS       65    
 ----     ----    
-HUNT     1082    
+HERE     9030    
 
-Waktu: 0 jam, 0 menit, 7.7569 detik.
+Waktu: 0 jam, 0 menit, 8.5785 detik.
 
-Jumlah Percobaan : 167979
+Jumlah Percobaan : 170702

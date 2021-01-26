@@ -1,17 +1,16 @@
 # Strategi Algoritma IF2211
-> Tugas Kecil \
+> Tugas Kecil 1 
 
 
 ## Table of contents
-* [Deskripsi Singkat](#deskripsi-singkat)
+* [Brief Description](#brief-descriptioni)
 * [Instalasi Python](#instalasi-python)
 * [Clone Repository](#clone-repository)
-* [Setup Databasae](#setup-database)
 * [How To Use](#how-to-use)
 * [Author](#author)
 
 
-## Deskripsi Singkat
+## Brief Description
 Pada tugas kali ini, kami diminta menyelesaikan persoalan cryptarithmetic dengan menggunakan algoritma brute force 
 Cryptarithmetic (atau cryptarithm) adalah sebuah puzzle penjumlahan di dalam matematika dimana angka diganti dengan huruf. Setiap angka dipresentasikan dengan huruf yang berbeda.
 
@@ -19,6 +18,7 @@ Cryptarithmetic (atau cryptarithm) adalah sebuah puzzle penjumlahan di dalam mat
 ## Instalasi Python
 1. Download Python pada https://www.python.org/downloads/windows/
 2. Lakukan instalasi pada Python
+3. instalasi pyinstaller, pip install pyinstaller (opsional)
 
 
 ## Clone Repository
@@ -38,5 +38,10 @@ Cryptarithmetic (atau cryptarithm) adalah sebuah puzzle penjumlahan di dalam mat
 5. untuk memvariasikannya, ganti angka 5 file_cryp = open("./test/test5.txt", "r") pada line 9 dengan angka 1-8
 6. Lihat outputnya pada folder test file jawaban.txt
 
-## author
+7. CARA LAIN (TIDAK DISARANKAN)
+8. Buka direktori src di cmd 
+9. ketik pyinstaller tucil.py
+10. cari file exe di folder dist, lalu ketikkan 2 kali 
+
+## Author
 * 13519057 Kadek Dwi Bagus Ananta Udayana

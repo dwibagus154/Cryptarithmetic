@@ -6,7 +6,7 @@ import time
 
 # buka file
 
-file_cryp = open("./test/test5.txt", "r")
+file_cryp = open("./test/test11.txt", "r")
 
 # baca isi file
 cryp = file_cryp.readlines()
