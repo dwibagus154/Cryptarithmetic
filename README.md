@@ -3,7 +3,7 @@
 
 
 ## Table of contents
-* [Brief Description](#brief-descriptioni)
+* [Brief Description](#brief-description)
 * [Instalasi Python](#instalasi-python)
 * [Clone Repository](#clone-repository)
 * [How To Use](#how-to-use)
@@ -11,7 +11,7 @@
 
 
 ## Brief Description
-Pada tugas kali ini, kami diminta menyelesaikan persoalan cryptarithmetic dengan menggunakan algoritma brute force 
+Pada tugas kali ini, saya diminta menyelesaikan persoalan cryptarithmetic dengan menggunakan algoritma brute force 
 Cryptarithmetic (atau cryptarithm) adalah sebuah puzzle penjumlahan di dalam matematika dimana angka diganti dengan huruf. Setiap angka dipresentasikan dengan huruf yang berbeda.
 
 
