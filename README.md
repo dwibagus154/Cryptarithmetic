@@ -44,4 +44,4 @@ Cryptarithmetic (atau cryptarithm) adalah sebuah puzzle penjumlahan di dalam mat
 10. cari file exe di folder dist, lalu ketikkan 2 kali 
 
 ## Author
-* 13519057 Kadek Dwi Bagus Ananta Udayana
+* 13519057 Kadek Dwi Bagus Ananta Udayana-Teknik Infotmatika-ITB
